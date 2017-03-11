@@ -1,0 +1,99 @@
+.container-fluid {
+  background-color: #EEEEEE;
+}
+
+.col-md-12 {
+  border: 1px solid black;
+}
+
+.col-md-6 {
+  height: 90vh;
+}
+
+.buttondiv {
+  margin: 45%;
+  width: 150px;
+  text-align: center;
+}
+
+.headText {
+  font-size: 35px;
+  color: #490063;
+}
+
+.myButton {
+  background-color: #353526;
+  color: white;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  border-radius: 6px;
+}
+
+.cover1, .cover2, .cover3 {
+  height: 250px;
+  width: 250px;
+  margin-left: 250px;
+}
+
+img {
+  width: 100%;
+  overflow:hidden;
+}
+
+.tracks {
+  background-image: url('resources/track.jpg');
+  background-size: 80vh;
+  background-size: 50vw;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+}
+
+.header {
+  background-color: #9b9b8d;
+  height: 5vh;
+}
+
+.header2 {
+  background-color: #9b9b8d;
+  height: 15vh;
+  font-size: 35px;
+  color: white;
+}
+
+.footer {
+  background-color: #68685a;
+  height: 5vh;
+}
+
+.copyright {
+  padding-top: 10px;
+  font-size: 18px;
+  text-align: left;
+  color: white;
+}
+
+.columns2 {
+  height: 80vh;
+}
+
+.albumslist {
+  overflow: scroll;
+  min-height: 200px;
+}
+
+.textbox {
+  height: 35vh;
+  width: 80vw;
+  border: 1px solid black;
+  margin: 50px;
+}
+
+.clearTracks, .submitTracks {
+margin-bottom: 100px;
+margin-left: 50px;
+}
+
+h3 {
+  padding-top: 75px;
+}
